@@ -1,0 +1,30 @@
+h1{
+    background-image:url("img/kai.jpg") ;
+    background-position-x: +12%;
+    background-position-y:+10%;
+    text-align:left;
+    font-size:27px;
+    color: white;
+    margin:0 auto;
+    border:solid 5px grey;
+    border-radius: 50%;
+    padding: 100px;
+    width: 490px;
+    height: 490px;
+}
+body{
+    color:#2B3944;
+    background:linear-gradient(#342B26,#334049,#2B3944,#8C786C,#BFA9A4);
+}
+p{
+    font-size:20px;
+    text-align:center;
+}
+li{
+    list-style-type: none;
+    float:left;
+    padding: 0 20px;
+}
+ #home{
+    float: right;
+}

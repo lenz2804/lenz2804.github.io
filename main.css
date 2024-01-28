@@ -1,0 +1,22 @@
+li{
+    list-style-type: none;
+    padding:0 50px;
+    display:inline;
+}
+nav{
+    background:linear-gradient(#ffffff,#dddddd);
+}
+h1{
+    background-image: url("img/ali.jpg");
+    background-position:center;
+    background-repeat:no-repeat;
+    text-align:left;
+    font-size:27px;
+    color: white;
+    margin:0 auto;
+    border:solid 5px grey;
+    border-radius: 70%;
+    padding: 100px;
+    width: 350px;
+    height: 350px;
+}
