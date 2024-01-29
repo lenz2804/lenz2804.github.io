@@ -27,7 +27,7 @@ img{
     border-radius: 50%;
 }
 body{
-    background:linear-gradient(0.25turn,#12151C,#C9C3B3,#12151C);
+    background:linear-gradient(#12151C,#C9C3B3,#12151C);
     color:#E5DDE9;
 }
 p{
