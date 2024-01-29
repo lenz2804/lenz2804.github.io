@@ -1,22 +1,49 @@
 li{
     list-style-type: none;
-    padding:0 50px;
+    padding:0 0.2em;
     display:inline;
+    font-size:1.4em;
+
 }
 nav{
-    background:linear-gradient(#ffffff,#dddddd);
+    text-align:center;
 }
-h1{
+a:hover{
+    background-color: floralwhite;
+
+}
+/* h1{
     background-image: url("img/ali.jpg");
     background-position:center;
     background-repeat:no-repeat;
     text-align:left;
-    font-size:27px;
-    color: white;
+    font-size: 27px;
+    color: black;
     margin:0 auto;
     border:solid 5px grey;
-    border-radius: 70%;
-    padding: 100px;
+    border-radius: 50%;
+    padding:100px;
     width: 350px;
     height: 350px;
+}
+*/
+h1{
+    text-align:center;
+    font-size: 37px;
+    color: lightcoral;
+    margin:0 auto;
+    padding-top:2em;
+}
+#img-container{
+    text-align: center;
+}
+img{
+    border-radius: 50%;
+}
+body{
+    background:linear-gradient(0.25turn,#12151C,#C9C3B3);
+    color:lightcoral;
+}
+p{
+    font-size:1.5em;
 }
