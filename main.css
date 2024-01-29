@@ -16,7 +16,7 @@ a:hover{
 h1{
     text-align:center;
     font-size: 37px;
-    color: lightcoral;
+    color: #E5DDE9;
     margin:0 auto;
     padding-top:2em;
 }
@@ -28,8 +28,9 @@ img{
 }
 body{
     background:linear-gradient(0.25turn,#12151C,#C9C3B3);
-    color:lightcoral;
+    color:#E5DDE9;
 }
 p{
     font-size:1.5em;
+    text-align: center;
 }

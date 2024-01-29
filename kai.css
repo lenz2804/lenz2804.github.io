@@ -13,18 +13,18 @@ h1{
     height: 490px;
 }
 body{
-    color:#2B3944;
+    color:#202E3B;
     background:linear-gradient(#342B26,#334049,#2B3944,#8C786C,#BFA9A4);
 }
 p{
     font-size:20px;
     text-align:center;
 }
-li{
+li {
     list-style-type: none;
+    padding: 0 5px;
     float:left;
-    padding: 0 20px;
 }
- #home{
-    float: right;
+#home{
+    float:right;
 }
