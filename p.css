@@ -1,6 +1,6 @@
-h1 {
-    background-image: url("img/kai.jpg");
-    background-position-x: +12%;
+h1{
+    background-image: url("img/primo.jpg");
+    background-position-x: +8%;
     background-position-y: +10%;
     text-align: left;
     font-size: 27px;
@@ -14,8 +14,8 @@ h1 {
 }
 
 body {
-    color: #202E3B;
-    background: linear-gradient(#342B26, #334049, #2B3944, #8C786C, #BFA9A4);
+    color: #C3DECA;
+    background: linear-gradient(#C1D4D9, #819FA6, #465759, #2F4141,#222C24);
 }
 
 p {
@@ -34,9 +34,9 @@ li {
 }
 
 a:link {
-    color: #202E3B;
+    color: #C3DECA;
 }
 
 a:visited {
-    color: #202E3B;
+    color: #C3DECA;
 }

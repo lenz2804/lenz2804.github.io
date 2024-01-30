@@ -10,9 +10,13 @@ nav{
 }
 a:hover{
     background-color: floralwhite;
-
 }
-
+a:link{
+    color:#12151C;
+}
+a:visited{
+    color:#12151C;
+}
 h1{
     text-align:center;
     font-size: 37px;
