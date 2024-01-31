@@ -1,0 +1,43 @@
+img{
+    width:60px;
+    height:60px;
+}
+li {
+    list-style-type: none;
+    font-size:23px;
+    font-weight: bold;
+    color:#03111C;
+}
+#home  {
+    float: right;
+}
+a:link {
+    color: #03111C;
+}
+a:visited {
+    color:#03111C;
+}
+p {
+    font-size: 20px;
+}
+header{
+    background-image: url("img/tangerine.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position-x: -30em;
+    background-position-y: -1em;
+    width: 800px;
+    height: 900px;
+    border-radius: 10%;
+    margin:0 auto;
+    float: right;
+}
+h1{
+    font-size: 30px;
+    color: #03111C;
+    padding-left: 25px;
+}
+body {
+    color: #CDCDCB;
+    background: linear-gradient(#021D24,#024059,#8EBABF,#557073,#777963);
+}
