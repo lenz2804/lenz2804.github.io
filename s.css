@@ -1,0 +1,62 @@
+* {
+
+    font-size: 100%;
+}
+
+img {
+    height: 70px;
+    width: 70px;
+}
+
+header {
+    background-image: url("img/seigy.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: -2em;
+    background-position-y: -1em;
+    width: 735px;
+    height: 900px;
+    border-radius: 15%;
+    margin: 0 auto;
+    float: right;
+}
+
+h1 {
+    font-size: 30px;
+    color: #FBECC1;
+    padding-left: 25px;
+}
+
+h2 {
+    font-size: 25px;
+    text-align: center;
+}
+
+body {
+    color: #FBECC1;
+    background: linear-gradient(#9E241B, #F22727, #A66B56, #BF5841, #F2E5BD);
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+    padding: 0 4px;
+    float: left;
+    font-size: 20px;
+}
+
+#home {
+    float: right;
+}
+
+a:link {
+    color: #FBECC1;
+}
+
+a:visited {
+    color: #FBECC1;
+}
