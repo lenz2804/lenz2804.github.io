@@ -23,10 +23,11 @@ p {
 header{
     background-image: url("img/tangerine.jpg");
     background-repeat:no-repeat;
-    background-position-x: -20em;
+    background-size: cover;
+    background-position-x: -30em;
     background-position-y: -1em;
     width: 800px;
-    height: 850px;
+    height: 900px;
     border-radius: 10%;
     margin:0 auto;
     float: right;
